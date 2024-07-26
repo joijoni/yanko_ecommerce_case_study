@@ -1,1 +1,1 @@
-# yanko_ecommerce_case_study
+# yanki_ecommerce_case_study
